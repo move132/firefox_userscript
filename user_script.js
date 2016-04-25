@@ -11,13 +11,13 @@
 // @require         http://lib.sinaapp.com/js/jquery/1.8.3/jquery.min.js  
 // @icon           
 // @run-at          document-idle  
-// @version         4.2.4  
+// @version         1.0.0  
 // @updateURL       
 // @supportURL      
 // @homepage         
 // @contributionURL    
 // @contributionAmount     
-// ==UserScript==  4
+// ==UserScript==   
 //=======START======= 
 var renderCss = '<style type="text/css" media="screen">' +
 '.movejs_content{  margin-bottom:100px; background:#fff; box-shadow:0 0 5px #444; box-sizing:border-box;  position:fixed; top:0;left:0; width:100%;z-index:9999;}' +
